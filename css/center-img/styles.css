@@ -1,0 +1,9 @@
+img.soot {
+    /* method 1 */
+    margin: 0 auto;
+    display: block;
+}
+
+.container {
+    text-align: center;
+}
